@@ -1,0 +1,69 @@
+@media screen and (max-width: 1024px){
+    .nav-bar .right-side {
+        display: none;
+    }
+}
+/* sm */
+
+/* md */
+@media screen and (min-width: 768px){
+    .md-100{
+        width: 100%;
+    }
+    .md-50{
+        width: 50%;
+    }
+    .md-30{
+        width: 33.333%;
+    }
+    .md-25{
+        width: 25%;
+    }
+    
+}
+/* lg */
+@media screen and (min-width: 1024px){
+    .lg-100{
+        width: 100%;
+    }
+    .lg-50{
+        width: 50%;
+    }
+    .lg-30{
+        width: 33.333%;
+    }
+    .lg-25{
+        width: 25%;
+    }
+   
+}
+/* xl */
+@media screen and (min-width: 1280px){
+    .xl-100{
+        width: 100%;
+    }
+    .xl-50{
+        width: 50%;
+    }
+    .xl-30{
+        width: 33.333%;
+    }
+    .xl-25{
+        width: 25%;
+    }
+}
+/* xxl */
+@media screen and (min-width: 1538px){
+    .xxl-100{
+        width: 100%;
+    }
+    .xxl-50{
+        width: 50%;
+    }
+    .xxl-30{
+        width: 33.333%;
+    }
+    .xxl-25{
+        width: 25%;
+    }
+}
